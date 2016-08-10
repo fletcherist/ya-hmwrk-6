@@ -31,8 +31,6 @@
 
 Деплой на Heroku теперь по `gp` — спасибо Travis CI за это.
 
-<img src='https://pp.vk.me/c636119/v636119043/1c542/yBa86hSu-WA.jpg' width=400/>
-
-<img src='https://pp.vk.me/c636119/v636119043/1c57a/fQyokeNl2nc.jpg' width=400/>
+<img src='https://pp.vk.me/c636119/v636119043/1c57a/fQyokeNl2nc.jpg' width=700/>
 
 <img src='https://pp.vk.me/c636119/v636119043/1c516/sa7hozXbQwc.jpg' />
