@@ -8,18 +8,18 @@
 
 ### Как раньше выглядела боль
 <img src='https://pp.vk.me/c636119/v636119043/1c50c/PU3kWs3KsG8.jpg' />
-За основу задания был взят 
+За основу задания был взят сервис анонимных мнений Йорселфер, который я делаю в свободное время.
 
-**NodeJS API Server** — (https://github.com/fletcherist/Yourselfr)
+**NodeJS API Server** — (https://github.com/fletcherist/yourselfr-api)
 
-**React Client** — (https://github.com/fletcherist/yourselfr-api)
+**React Client** — (https://github.com/fletcherist/Yourselfr)
 
 
 ### Проблемы и их решения
 Как я уже упомянул в заголовке работы — путь до деплоя одной кнопкой занял у меня 16 попыток.
 
 На первой же я словил:
-<img src='https://pp.vk.me/c636119/v636119043/1c54c/wOqlIotthdE.jpg' />
+<img src='https://pp.vk.me/c636119/v636119043/1c54c/wOqlIotаthdE.jpg' />
 
 Ключевое слово здесь — Dev Dependencies. Heroku deploy скрипт на удивление отлично подхватывает нужные проекту зависимости, но он, к сожалению, забыл установить dev зависимости. Решение есть следующая строка, которую надо скормить Heroku в терминале:
 
@@ -28,8 +28,8 @@
 Ещё на сервере с API пришлось прокинуть 
 
 Деплой на Heroku теперь по `gp` — спасибо Travis CI за это.
-<img src='https://pp.vk.me/c636119/v636119043/1c542/yBa86hSu-WA.jpg' width=400/>
+<img src='https://pp.vk.me/c636119/v636119043/1c542/yBa86hаSu-WA.jpg' width=400/>
 
-<img src='https://pp.vk.me/c636119/v636119043/1c538/Ltcu2-kh8cM.jpg' width=400/>
+<img src='https://pp.vk.me/c636119/v636119043/1c538/Ltcu2-kh8аcM.jpg' width=400/>
 
-<img src='https://pp.vk.me/c636119/v636119043/1c516/sa7hozXbQwc.jpg' />
+<img src='https://pp.vk.me/c636119/v636119043/1c516/sa7hozXпbQwc.jpg' />
