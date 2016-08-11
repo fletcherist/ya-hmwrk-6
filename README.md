@@ -18,6 +18,13 @@
 
 **React Client** — (https://github.com/fletcherist/Yourselfr)
 
+### Итак, что есть?
+1. ESlint с удобным для меня конфигом
+2. npm test гоняет ESlint
+3. Хостинг на Heroku
+4. Travis CI → CD
+5. UptimeRobot
+6. плашка трависа, куда же без неё [тут](https://github.com/fletcherist/Yourselfr)
 
 ### Проблемы и их решения
 
