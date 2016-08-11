@@ -2,7 +2,7 @@
 Именно так можно озаглавить путь от боли и ручного перетаскивания файлов по sftp до деплоя одной кнопкой с линтером и автотестами.
 
 ## Результат
-## (yourselfr.herokuapp.com)[https://yourselfr.herokuapp.com]
+## [yourselfr.herokuapp.com](https://yourselfr.herokuapp.com)
 На 23:30 August 10, 2016 — всё работает.
 
 <img src='https://pp.vk.me/c636119/v636119043/1c55d/ERFZaxjKvpE.jpg' width=700/>
